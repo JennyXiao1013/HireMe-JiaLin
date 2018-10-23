@@ -1,0 +1,23 @@
+h2{
+    color:red;
+}
+body{
+    background-color: lightblue;
+}
+img{
+    width:200px;
+    border:5px dashed pink;
+}
+body{
+        font-family: 'Cookie', cursive;
+        background: url("https://i.pinimg.com/originals/6c/f5/8c/6cf58c86edc575e9ac75e6b1ed12d0dd.png");
+}
+ul{
+    color:white;
+}
+h1{
+    color:#3466aa;
+}
+p{
+    color:white;
+}
